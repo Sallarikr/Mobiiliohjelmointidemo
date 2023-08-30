@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Sallan demo-ohjelma</Text>
+      <Text>Mobiiliohjelmointi</Text>
       <StatusBar style="auto" />
     </View>
   );
